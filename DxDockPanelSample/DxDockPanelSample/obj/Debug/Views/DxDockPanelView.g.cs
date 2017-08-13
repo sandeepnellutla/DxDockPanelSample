@@ -13,6 +13,7 @@ using DevExpress.Core;
 using DevExpress.Mvvm;
 using DevExpress.Mvvm.UI;
 using DevExpress.Mvvm.UI.Interactivity;
+using DevExpress.Mvvm.UI.ModuleInjection;
 using DevExpress.Xpf.Bars;
 using DevExpress.Xpf.Core;
 using DevExpress.Xpf.Core.ConditionalFormatting;

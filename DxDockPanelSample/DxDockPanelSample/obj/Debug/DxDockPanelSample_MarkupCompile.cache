@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-c:\projects\DxDockPanelSample\DxDockPanelSample\obj\Debug\
+D:\Projects\WPF\DxDockPanelSample\DxDockPanelSample\DxDockPanelSample\obj\Debug\
 DxDockPanelSample
 none
 false
 DEBUG;TRACE
-c:\projects\DxDockPanelSample\DxDockPanelSample\App.xaml
+D:\Projects\WPF\DxDockPanelSample\DxDockPanelSample\DxDockPanelSample\App.xaml
 31872472301
 
 10-1106398846
-221887351752
+22703514234
 MainWindow.xaml;Views\DocumentView.xaml;Views\DxDockPanelView.xaml;
 
 False
